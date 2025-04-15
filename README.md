@@ -1,4 +1,4 @@
-# MySQL
+# Walmart's Retail insights optimization
 
 MySQL Sales Insights: Analyzed sales data in MySQL to identify growth areas, customer segments, and top products.
 
